@@ -11,7 +11,7 @@ This is the repository for Astral v2. Currently looking for core contributors!
 
 - Improved Caching
 - Improved UI/UX
-- Built on Laravel 5.3
+- Built on Laravel 5.4
 - Switched the front-end from AngularJS to VueJS
 
 
